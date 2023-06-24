@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">LoginDialog</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="label_btn_fr">Text to display</string>
+    <string name="confirmer">Confirm</string>
+    <string name="none">none</string>
+    <string name="display_text">Display Text</string>
+</resources>
